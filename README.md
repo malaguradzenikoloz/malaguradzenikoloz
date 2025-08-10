@@ -1,16 +1,24 @@
-## Hi there 👋
+ Hi, I'm Nikoloz!
 
-<!--
-**malaguradzenikoloz/malaguradzenikoloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer | Rustavi, Georgia 
 
-Here are some ideas to get you started:
+I'm a passionate full-stack developer with a strong focus on building robust and scalable web applications. My expertise lies in creating efficient back-end systems and crafting dynamic user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey into development started with a deep curiosity for how things work, and I've since channeled that passion into solving complex challenges and optimizing code for performance.
+
+What I'm Working On
+
+Developing and maintaining scalable web applications.
+
+Building clean, responsive, and intuitive user interfaces.
+
+Exploring new technologies to improve application performance and user experience.
+
+Skills & Tools
+
+Backend: C# | .NET Core | ASP.NET | SQL Server | REST APIs
+
+Frontend: HTML5 | CSS3 | JavaScript | TypeScript | Angular
+
+Other: Git | GitHub
+
